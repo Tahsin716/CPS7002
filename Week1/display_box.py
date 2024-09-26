@@ -1,0 +1,2 @@
+#Display messages.
+print("#######################################\n# System reboot has been initiated... #\n#  \t\t\t\t\t\t\t\t\t  #\n#\t- rebooting sensory system\t\t  #\n#\t- rebooting output motors\t\t  #\n#\t- rebooting hover engine\t\t  #\n# The system reboot has completed.\t  #\n#######################################")
